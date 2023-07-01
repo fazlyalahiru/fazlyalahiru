@@ -6,7 +6,7 @@
 
 My main focus these days is developing complex full-stack web apps and exploring new web technologies. Also, as a fresh developer, I'm looking for an opportunity to join a dynamic team to push my capacity and utilize my skills.
 
-Skills: HTML / CSS / Tailwind / BootStrap / JavaScrip / REACT / Node.js / MongoDB / Express.js
+<b>Skills:</b> HTML / CSS / Tailwind / BootStrap / JavaScrip / REACT / Node.js / MongoDB / Express.js
 
 <p align="left">✨ Creating bugs since 2020<br>🌱 I'm currently learning Next.js<br>🎲 I have deep interest in global pollitics</p>
 
