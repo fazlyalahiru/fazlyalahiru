@@ -8,7 +8,7 @@ My main focus these days is developing complex full-stack web apps and exploring
 
 Skills: HTML / CSS / Tailwind / BootStrap / JavaScrip / REACT / Node.js / MongoDB / Express.js
 
-<p align="left">✨ Creating bugs since 2020<br>🌱 I'm currently learning Next.js<br>🎲 Fun fact: I have deep interest in global pollitics</p>
+<p align="left">✨ Creating bugs since 2020<br>🌱 I'm currently learning Next.js<br>🎲 I have deep interest in global pollitics</p>
 
 
 ###
