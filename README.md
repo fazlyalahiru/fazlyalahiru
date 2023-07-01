@@ -22,8 +22,6 @@ Skills: HTML / CSS / Tailwind / BootStrap / JavaScrip / REACT / Node.js / MongoD
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=fazlyalahiru)  
 
-![GitHub metrics](https://metrics.lecoq.io/fazlyalahiru)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=fazlyalahiru)  
 
 ![Profile views](https://gpvc.arturio.dev/fazlyalahiru)  
