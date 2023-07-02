@@ -54,5 +54,18 @@ My main focus these days is developing complex full-stack web apps and exploring
 
 <div align="left">
   <a href="https://www.linkedin.com/in/fazlyalahiru/" target="_blank">
-
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="30" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/fazlyalahiru/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="45" height="30" alt="facebook logo"  />
+  </a>
+  <a href="https://twitter.com/fazlyalahiru" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="30" alt="twitter logo"  />
+  </a>
+  <a href="https://t.me/fazlyalahiru" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="45" height="30" alt="telegram logo"  />
+  </a>
+  <a href="https://wa.me/8801303359120?text=Hey, Fazly Alahi this side. Want to talk to me? Please don't hesitate to reach me out." target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" height="30" alt="whatsapp logo"  />
+  </a>
 </div>
