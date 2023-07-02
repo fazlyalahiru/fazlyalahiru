@@ -1,5 +1,5 @@
 ## Hi there 👋, this is Fazly  Alahi
-### A passionate REACT developer from Bangladesh
+#### A passionate REACT developer from Bangladesh
 ![](https://komarev.com/ghpvc/?username=fazlyalahiru&color=f878cd)
 
 ![A passionate REACT developer from Bangladesh](https://i.ibb.co/J5VcFcp/Welcome-to-Fazly-Alahi-s-Git-Hub-profile-1.png)
