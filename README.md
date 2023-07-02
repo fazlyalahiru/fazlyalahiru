@@ -1,9 +1,14 @@
-### Hi there 👋, this is Fazly  Alahi
-#### A passionate REACT developer from Bangladesh
+## Hi there 👋, this is Fazly  Alahi
+### A passionate REACT developer from Bangladesh
 ![](https://komarev.com/ghpvc/?username=fazlyalahiru&color=f878cd)
 
 ![A passionate REACT developer from Bangladesh](https://i.ibb.co/J5VcFcp/Welcome-to-Fazly-Alahi-s-Git-Hub-profile-1.png)
 
+###
+
+<h2 align="left">About me</h2>
+
+###
 My main focus these days is developing complex full-stack web apps and exploring new web technologies. Also, as a fresh developer, I'm looking for an opportunity to join a dynamic team to push my capacity and utilize my skills.
 
 <b>Skills:</b> HTML / CSS / Tailwind / BootStrap / JavaScrip / REACT / Node.js / MongoDB / Express.js
